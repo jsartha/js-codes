@@ -39,7 +39,13 @@ console.log(newArray);
 let result=array.slice(1,3)
 console.log(result);
 
-//splice()
+
+
+// check is array or  not 
+
+
+console.log(Array.isArray('sarthak'));
+
 
 
 
