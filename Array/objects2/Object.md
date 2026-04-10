@@ -62,3 +62,5 @@ typeof function(){} === "function"
 🔹 Bonus: Primitive vs Non-Primitive
 Primitive: string, number, boolean, null, undefined, symbol
 Non-Primitive: object, array, function
+
+//object.create
