@@ -36,17 +36,10 @@ console.log(newArray);
 
 //slice()
 
-array.slice(1,3)
-console.log(array);
+let result=array.slice(1,3)
+console.log(result);
 
 //splice()
-
-array.splice(1,3)
-
-console.log(splice);
-
-//imp
-
 
 
 
