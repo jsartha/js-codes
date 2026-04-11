@@ -71,3 +71,5 @@ Loggin.Greeting2=function(){
 
 
 console.log(Loggin.Greeting2());
+
+
