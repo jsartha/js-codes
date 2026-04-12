@@ -39,6 +39,9 @@ Two(9,8);
 
 
 
+
+// Example 3
+
 function Two1(a , b){
 
 
@@ -48,6 +51,27 @@ function Two1(a , b){
 }
 
 
-console.log(Two1( 30 ,40))
+ const result=Two1( 30 ,40)
 
-console.log('myresult', result);
+console.log('myresult' , result)
+
+
+
+//Example 4
+
+
+function loginUser(username){
+
+      if(username===undefined && username===null) {
+
+        console.log( ' please fiil the input');
+        return
+      }
+     return `${username} just loggin`
+
+}
+
+console.log( loginUser());
+
+
+//Example 5
