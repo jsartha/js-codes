@@ -75,3 +75,43 @@ Loggin.Greeting2=function(){
 console.log(Loggin.Greeting2());
 
 
+
+
+
+// Array of Objecct 
+
+
+const user=[
+
+    {
+    
+        email:"jsarthak168@gmail.com"
+
+    },
+
+
+    {
+
+
+    }
+    ,
+
+
+    {
+
+
+
+    }
+]
+
+
+// access element
+
+console.log(user[1].email)
+
+
+
+
+
+
+

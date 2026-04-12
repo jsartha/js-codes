@@ -3,3 +3,8 @@ JS codes for  chai or codes Studyes
 
 f12---- open console browser
 ctr+l -- clearv
+
+imp
+
+Array Destructure
+Object Destructure

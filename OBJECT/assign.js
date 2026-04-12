@@ -28,3 +28,6 @@ data2.name2={ 1:"A" , 2:"B"}
 
 const resultassign=Object.assign({},data ,data2)
 console.log(resultassign);
+
+
+
