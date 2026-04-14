@@ -18,4 +18,4 @@ user.welcomeMessageFunction()
 
 user.username="sarthak"
 
-use.welcomeMessageFunction()
+user.welcomeMessageFunction()
