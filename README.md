@@ -39,3 +39,10 @@ just loggin
 o/p
 
 undifine just loggin
+
+
+
+Function
+4. this only object var used hotat not function
+   OR
+   Arrow madhe used nahi hot This function { Empty bracket show kart}
