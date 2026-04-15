@@ -15,3 +15,10 @@ let val2= null ??100
 
 console.log(val2);
 
+
+//eXAMPLE 3
+
+let val3=  undefined ?? 100
+
+console.log(val3);
+
