@@ -46,3 +46,11 @@ Function
 4. this only object var used hotat not function
    OR
    Arrow madhe used nahi hot This function { Empty bracket show kart}
+
+5. Falsy values
+
+ false , 0  , -0 , BigInt  0n , " " , null , undefined ,NaN 
+
+
+ 6. Truthy Value
+ array[emty array]  , Truth  , "0" ,'false' , " " , {}  , () ,
