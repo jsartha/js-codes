@@ -54,3 +54,9 @@ Function
 
  6. Truthy Value
  array[emty array]  , Truth  , "0" ,'false' , " " , {}  , () ,
+
+ false==0
+
+false==" "
+
+0==" " 
