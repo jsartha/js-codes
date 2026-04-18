@@ -1,4 +1,6 @@
 # js-codes
+
+java  rule  --->ECMA  create karte
 JS codes for  chai or codes Studyes
 
 f12---- open console browser
