@@ -18,6 +18,15 @@ console.log(Math.max( 1,2,344,5677,85,0,34));
 console.log(Math.min(33,45,22,55767,2455556,212,67));
 
 
-console.log( Math.random()*1);
+
+//Example 1
+console.log( Math.floor(Math.random()*10)+1)  ;   // range  0 To 1
+
+console.log(Math.floor(Math.random()*6)+1);
 
 
+// Example 2
+
+// 15-25 madhale ghey che ye 
+
+console.log( Math.floor(Math.random()*11)+15);
