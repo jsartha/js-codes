@@ -46,3 +46,25 @@ console.log(Boolean (0));
 console.log(Boolean (1));
 console.log(Boolean ("sarthak")); //--->
 console.log(Boolean(" "));
+
+
+
+// >,<,<= ,>= ,  ( null --->  conver to number  , also  undifine can convert ----> NaN )
+console.log(null>=0);
+
+console.log(null<=0);
+
+console.log(null >0);
+
+console.log(null >=undefined);
+
+
+console.log("sarthak" > "joshi");
+
+           // first ascii value compaire like that   s>j
+console.log(10<true);
+
+console.log(null >= ' ');
+
+
+console.log(NaN==NaN);
