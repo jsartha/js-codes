@@ -26,4 +26,6 @@ console.log(a==b);
 
 // ata true yeyil
 
-console.log();
+console.log(
+    
+);
