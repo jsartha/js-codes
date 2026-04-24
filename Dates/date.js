@@ -33,3 +33,8 @@ console.log(date.getDay());
 
 date=new Date(2026 ,4 ,25 ,1 ,34 ,16 ,125)
 console.log(date.toString());
+
+
+// imp
+
+const now=Date.now()
