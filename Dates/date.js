@@ -37,4 +37,10 @@ console.log(date.toString());
 
 // imp
 
-const now=Date.now()
+const now=Date.now(-1777018050369)
+console.log(now);
+
+const now1= new Date(0);
+
+console.log(now1.toString());
+
