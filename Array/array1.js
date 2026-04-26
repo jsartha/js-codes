@@ -23,7 +23,7 @@ console.log(array);
 //shift()
 
 array.shift()
-console.log(array);
+//console.log(array);
 
 
 //Join()
@@ -37,14 +37,14 @@ console.log(newArray);
 //slice()
 
 let result=array.slice(1,3)
-console.log(result);
+//console.log(result);
 
 
 
 // check is array or  not 
 
 
-console.log(Array.isArray('sarthak'));
+//console.log(Array.isArray('sarthak'));
 
 
 

@@ -9,3 +9,5 @@ console.log(Array.from('sarthak'))
 
 
 // of () same ye
+
+
