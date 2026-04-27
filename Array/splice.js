@@ -24,6 +24,7 @@ let dd=bb.splice(1 ,3 ,'Sakshi' ,'Priti');
 
 console.log(bb);
 
+
 //console.log(ss);
 
 
