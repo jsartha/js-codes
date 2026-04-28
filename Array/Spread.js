@@ -13,7 +13,7 @@ console.log(spread);
 
 let d=[758,83739,298,203]
 
-
+   
 
 let xx=[...d, ...a , ...college2 ]
 

@@ -48,6 +48,14 @@ let result=array.slice(1,3)
 
 
 
+// include ()
+
+console.log(array.includes(1));
+
+// reverse()
+
+console.log(array.reverse());
+
 
 
 
