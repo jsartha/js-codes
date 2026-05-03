@@ -223,6 +223,8 @@ function Payment(amount , callback) {
 
 
 
+
+
 Payment(500 , zomato)
 
 Payment(400 , blinkit)
